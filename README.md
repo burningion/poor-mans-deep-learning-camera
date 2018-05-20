@@ -14,7 +14,9 @@ On another computer, you'll run the inference script, and it will detect whether
 
 For this to run, you'll need to download and install the Darkflow weights, along with the YOLO model of your choice. Once that's installed, you should then be able to start doing inferences.
 
-I'll add more details shortly.
+If you're looking for a pretrained model, I used the `tiny-yolo-voc` weights at the [Darkflow repo](https://github.com/thtrieu/darkflow/).
+
+thtrieu even linked to a Google Drive copy of his models [here](https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU).
 
 ## Architecture
 
